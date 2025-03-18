@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 ## About Me  
 
 🔹 **Master's in Computer Science** @ University of Wisconsin-Milwaukee (Graduating May 2024)  
