@@ -5,7 +5,7 @@
 
 🔹 **Master's in Computer Science** @ University of Wisconsin-Milwaukee (Graduating May 2024)  
 🔹 Passionate about **cloud solutions, DevOps, Infrastructure as Code (IaC), and automation**  
-🔹 Experienced in **full-stack development, system administration, and cloud infrastructure**  
+🔹 Experienced in business analysis, dashboards creation, requirements gathering 
 🔹 Currently **practicing Data Structures & Algorithms** for technical interviews  
 
 ## 🛠 Tech Stack  
@@ -19,8 +19,14 @@
 
 🛠 Tools & Technologies
 - **Linux**, WordPress Hosting, DNS Concepts  
-- **Jira, PagerDuty** (On-call Support & Incident Management)  
+- **Jira, PagerDuty** (On-call Support & Incident Management)
 
+  **Data Stack**
+- SQL, PL/SQL, PostgreSQL
+- Power BI (Data Visualization & Dashboarding)
+- Excel (Advanced Functions & Pivot Tables)
+- Familiar with ETL processes and data wrangling
+  
 ## 📌 What I'm Working On  
 - **Building scalable and cloud-native applications**  
 - **Enhancing automation & DevOps workflows**  
